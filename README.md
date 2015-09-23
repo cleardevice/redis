@@ -1,5 +1,7 @@
 ## Redis Dockerfile
+[![](https://badge.imagelayers.io/cleardevice/redis:latest.svg)](https://imagelayers.io/?images=cleardevice/redis:latest 'Get your own badge on imagelayers.io')
 
+You can find this image on the docker hub at: https://hub.docker.com/r/cleardevice/redis/
 
 This repository contains **Dockerfile** of [Redis](http://redis.io/) for [Docker](https://www.docker.com/)'s [automated build](https://registry.hub.docker.com/u/cleardevice/redis/) published to the public [Docker Hub Registry](https://registry.hub.docker.com/).
 
