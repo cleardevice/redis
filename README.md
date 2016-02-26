@@ -1,14 +1,12 @@
-## Redis Dockerfile
+## Docker Alpine Redis with s6 overlay init system
+
+Smallest redis image: only 16Mb!
+
 [![](https://badge.imagelayers.io/cleardevice/redis:latest.svg)](https://imagelayers.io/?images=cleardevice/redis:latest 'Get your own badge on imagelayers.io')
-
-You can find this image on the docker hub at: https://hub.docker.com/r/cleardevice/redis/
-
-This repository contains **Dockerfile** of [Redis](http://redis.io/) for [Docker](https://www.docker.com/)'s [automated build](https://registry.hub.docker.com/u/cleardevice/redis/) published to the public [Docker Hub Registry](https://registry.hub.docker.com/).
-
 
 ### Base Docker Image
 
-* [Alpinelinux:latest(3.3)]
+[Alpinelinux:latest(3.3)]
 
 
 ### Installation

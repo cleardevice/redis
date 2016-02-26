@@ -13,4 +13,6 @@ RUN apk add --update-cache redis && \
 VOLUME /data
 WORKDIR /data
 
+ADD etc /etc
+
 EXPOSE 6379
