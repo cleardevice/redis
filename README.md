@@ -8,7 +8,7 @@ This repository contains **Dockerfile** of [Redis](http://redis.io/) for [Docker
 
 ### Base Docker Image
 
-* [ubuntu:14.04]
+* [Alpinelinux:latest(3.3)]
 
 
 ### Installation
